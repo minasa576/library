@@ -1,0 +1,6 @@
+<odoo>
+        <record id="book_1" model="library.book">
+            <field name="name">Don't Fu** panic</field>
+            <field name="author_id" ref="author_john"/>
+        </record>
+</odoo>

@@ -1,0 +1,6 @@
+<odoo>
+        <record id="author_john" model="library.author">
+            <field name="name">John Doe</field>
+            <field name="nationality" ref="base.ao"/>
+        </record>
+</odoo>
